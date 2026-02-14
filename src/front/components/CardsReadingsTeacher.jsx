@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import lecturaslogo from "../assets/img/lecturaslogo.png";
 import { RandomImgLecturas } from "./RandomImgLecturas";
 
 export const CardsReadingsTeacher = ({
